@@ -1,0 +1,5 @@
+Probed:alien:7
+Lazerz:alien:7
+Brainfuck:alien-pissed:7
+Annihilation-Lol:alien-psychic:7
+Not-Funny:alien-pissed:8
