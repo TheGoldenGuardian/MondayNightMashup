@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOTE_cool.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="arrow static instance 20000" x="0" y="0" width="157" height="154"/>
+	<SubTexture name="arrow static instance 10000" x="157" y="0" width="154" height="157"/>
+	<SubTexture name="arrow static instance 30000" x="311" y="0" width="154" height="157"/>
+	<SubTexture name="arrow static instance 40000" x="465" y="0" width="157" height="154"/>
+	<SubTexture name="blue instance 10000" x="622" y="0" width="157" height="154"/>
+	<SubTexture name="blue hold end instance 10000" x="779" y="0" width="50" height="64"/>
+	<SubTexture name="blue hold piece instance 10000" x="829" y="0" width="50" height="44"/>
+	<SubTexture name="down confirm instance 10000" x="879" y="0" width="334" height="278"/>
+	<SubTexture name="down confirm instance 10001" x="1213" y="0" width="334" height="278"/>
+	<SubTexture name="down confirm instance 10002" x="1547" y="0" width="334" height="278"/>
+	<SubTexture name="down confirm instance 10003" x="1547" y="0" width="334" height="278"/>
+	<SubTexture name="down confirm instance 10004" x="0" y="278" width="334" height="278"/>
+	<SubTexture name="down confirm instance 10005" x="0" y="278" width="334" height="278"/>
+	<SubTexture name="down confirm instance 10006" x="334" y="278" width="334" height="278"/>
+	<SubTexture name="down confirm instance 10007" x="334" y="278" width="334" height="278"/>
+	<SubTexture name="down confirm instance 10008" x="668" y="278" width="334" height="278"/>
+	<SubTexture name="down confirm instance 10009" x="668" y="278" width="334" height="278"/>
+	<SubTexture name="down confirm instance 10010" x="1002" y="278" width="334" height="278"/>
+	<SubTexture name="down press instance 10000" x="1336" y="278" width="149" height="146"/>
+	<SubTexture name="down press instance 10001" x="1336" y="278" width="149" height="146"/>
+	<SubTexture name="down press instance 10002" x="1485" y="278" width="149" height="146"/>
+	<SubTexture name="down press instance 10003" x="1485" y="278" width="149" height="146"/>
+	<SubTexture name="green instance 10000" x="1634" y="278" width="157" height="154"/>
+	<SubTexture name="green hold end instance 10000" x="1791" y="278" width="50" height="64"/>
+	<SubTexture name="green hold piece instance 10000" x="1841" y="278" width="50" height="44"/>
+	<SubTexture name="left confirm instance 10000" x="0" y="556" width="228" height="261"/>
+	<SubTexture name="left confirm instance 10001" x="228" y="556" width="228" height="261"/>
+	<SubTexture name="left confirm instance 10002" x="456" y="556" width="228" height="261"/>
+	<SubTexture name="left confirm instance 10003" x="456" y="556" width="228" height="261"/>
+	<SubTexture name="left confirm instance 10004" x="684" y="556" width="228" height="261"/>
+	<SubTexture name="left confirm instance 10005" x="684" y="556" width="228" height="261"/>
+	<SubTexture name="left confirm instance 10006" x="912" y="556" width="228" height="261"/>
+	<SubTexture name="left confirm instance 10007" x="912" y="556" width="228" height="261"/>
+	<SubTexture name="left confirm instance 10008" x="1140" y="556" width="228" height="261"/>
+	<SubTexture name="left confirm instance 10009" x="1140" y="556" width="228" height="261"/>
+	<SubTexture name="left confirm instance 10010" x="1140" y="556" width="228" height="261"/>
+	<SubTexture name="left press instance 10000" x="1368" y="556" width="146" height="149"/>
+	<SubTexture name="left press instance 10001" x="1368" y="556" width="146" height="149"/>
+	<SubTexture name="left press instance 10002" x="1514" y="556" width="146" height="149"/>
+	<SubTexture name="left press instance 10003" x="1514" y="556" width="146" height="149"/>
+	<SubTexture name="left press instance 10004" x="1514" y="556" width="146" height="149"/>
+	<SubTexture name="left press instance 10005" x="1514" y="556" width="146" height="149"/>
+	<SubTexture name="left press instance 10006" x="1514" y="556" width="146" height="149"/>
+	<SubTexture name="left press instance 10007" x="1514" y="556" width="146" height="149"/>
+	<SubTexture name="left press instance 10008" x="1514" y="556" width="146" height="149"/>
+	<SubTexture name="left press instance 10009" x="1514" y="556" width="146" height="149"/>
+	<SubTexture name="left press instance 10010" x="1514" y="556" width="146" height="149"/>
+	<SubTexture name="left press instance 10011" x="1514" y="556" width="146" height="149"/>
+	<SubTexture name="left press instance 10012" x="1514" y="556" width="146" height="149"/>
+	<SubTexture name="left press instance 10013" x="1514" y="556" width="146" height="149"/>
+	<SubTexture name="left press instance 10014" x="1514" y="556" width="146" height="149"/>
+	<SubTexture name="left press instance 10015" x="1514" y="556" width="146" height="149"/>
+	<SubTexture name="left press instance 10016" x="1514" y="556" width="146" height="149"/>
+	<SubTexture name="left press instance 10017" x="1514" y="556" width="146" height="149"/>
+	<SubTexture name="left press instance 10018" x="1514" y="556" width="146" height="149"/>
+	<SubTexture name="left press instance 10019" x="1514" y="556" width="146" height="149"/>
+	<SubTexture name="pruple end hold instance 10000" x="1660" y="556" width="50" height="64"/>
+	<SubTexture name="purple instance 10000" x="1710" y="556" width="154" height="157"/>
+	<SubTexture name="purple hold piece instance 10000" x="1864" y="556" width="50" height="44"/>
+	<SubTexture name="red0000" x="0" y="817" width="154" height="157"/>
+	<SubTexture name="red hold end instance 10000" x="154" y="817" width="50" height="64"/>
+	<SubTexture name="red hold piece instance 10000" x="204" y="817" width="50" height="44"/>
+	<SubTexture name="right confirm instance 10000" x="254" y="817" width="226" height="259"/>
+	<SubTexture name="right confirm instance 10001" x="480" y="817" width="226" height="259"/>
+	<SubTexture name="right confirm instance 10002" x="706" y="817" width="226" height="259"/>
+	<SubTexture name="right confirm instance 10003" x="706" y="817" width="226" height="259"/>
+	<SubTexture name="right confirm instance 10004" x="932" y="817" width="226" height="259"/>
+	<SubTexture name="right confirm instance 10005" x="932" y="817" width="226" height="259"/>
+	<SubTexture name="right confirm instance 10006" x="1158" y="817" width="226" height="259"/>
+	<SubTexture name="right confirm instance 10007" x="1158" y="817" width="226" height="259"/>
+	<SubTexture name="right confirm instance 10008" x="1384" y="817" width="226" height="259"/>
+	<SubTexture name="right confirm instance 10009" x="1384" y="817" width="226" height="259"/>
+	<SubTexture name="right confirm instance 10010" x="1610" y="817" width="226" height="259"/>
+	<SubTexture name="right press instance 10000" x="1836" y="817" width="148" height="151"/>
+	<SubTexture name="right press instance 10001" x="1836" y="817" width="148" height="151"/>
+	<SubTexture name="right press instance 10002" x="0" y="1076" width="148" height="151"/>
+	<SubTexture name="right press instance 10003" x="0" y="1076" width="148" height="151"/>
+	<SubTexture name="right press instance 10004" x="0" y="1076" width="148" height="151"/>
+	<SubTexture name="right press instance 10005" x="0" y="1076" width="148" height="151"/>
+	<SubTexture name="right press instance 10006" x="0" y="1076" width="148" height="151"/>
+	<SubTexture name="right press instance 10007" x="0" y="1076" width="148" height="151"/>
+	<SubTexture name="right press instance 10008" x="0" y="1076" width="148" height="151"/>
+	<SubTexture name="right press instance 10009" x="0" y="1076" width="148" height="151"/>
+	<SubTexture name="right press instance 10010" x="0" y="1076" width="148" height="151"/>
+	<SubTexture name="right press instance 10011" x="0" y="1076" width="148" height="151"/>
+	<SubTexture name="right press instance 10012" x="0" y="1076" width="148" height="151"/>
+	<SubTexture name="right press instance 10013" x="0" y="1076" width="148" height="151"/>
+	<SubTexture name="right press instance 10014" x="0" y="1076" width="148" height="151"/>
+	<SubTexture name="right press instance 10015" x="0" y="1076" width="148" height="151"/>
+	<SubTexture name="right press instance 10016" x="0" y="1076" width="148" height="151"/>
+	<SubTexture name="right press instance 10017" x="0" y="1076" width="148" height="151"/>
+	<SubTexture name="right press instance 10018" x="0" y="1076" width="148" height="151"/>
+	<SubTexture name="right press instance 10019" x="0" y="1076" width="148" height="151"/>
+	<SubTexture name="right press instance 10020" x="0" y="1076" width="148" height="151"/>
+	<SubTexture name="right press instance 10021" x="0" y="1076" width="148" height="151"/>
+	<SubTexture name="right press instance 10022" x="0" y="1076" width="148" height="151"/>
+	<SubTexture name="right press instance 10023" x="0" y="1076" width="148" height="151"/>
+	<SubTexture name="right press instance 10024" x="0" y="1076" width="148" height="151"/>
+	<SubTexture name="right press instance 10025" x="0" y="1076" width="148" height="151"/>
+	<SubTexture name="right press instance 10026" x="0" y="1076" width="148" height="151"/>
+	<SubTexture name="up confirm instance 10000" x="148" y="1076" width="236" height="256"/>
+	<SubTexture name="up confirm instance 10001" x="384" y="1076" width="236" height="256"/>
+	<SubTexture name="up confirm instance 10002" x="620" y="1076" width="236" height="256"/>
+	<SubTexture name="up confirm instance 10003" x="620" y="1076" width="236" height="256"/>
+	<SubTexture name="up confirm instance 10004" x="856" y="1076" width="236" height="256"/>
+	<SubTexture name="up confirm instance 10005" x="856" y="1076" width="236" height="256"/>
+	<SubTexture name="up confirm instance 10006" x="1092" y="1076" width="236" height="256"/>
+	<SubTexture name="up confirm instance 10007" x="1092" y="1076" width="236" height="256"/>
+	<SubTexture name="up confirm instance 10008" x="1328" y="1076" width="236" height="256"/>
+	<SubTexture name="up confirm instance 10009" x="1328" y="1076" width="236" height="256"/>
+	<SubTexture name="up confirm instance 10010" x="1564" y="1076" width="236" height="256"/>
+	<SubTexture name="up press instance 10000" x="1800" y="1076" width="153" height="150"/>
+	<SubTexture name="up press instance 10001" x="1800" y="1076" width="153" height="150"/>
+	<SubTexture name="up press instance 10002" x="0" y="1332" width="153" height="150"/>
+	<SubTexture name="up press instance 10003" x="0" y="1332" width="153" height="150"/>
+</TextureAtlas>
