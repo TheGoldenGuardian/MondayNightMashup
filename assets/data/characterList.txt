@@ -24,3 +24,4 @@ sanford
 shaggy
 matt
 nobody
+kindred
