@@ -25,3 +25,6 @@ shaggy
 matt
 nobody
 kindred
+boyfriend
+boyfriend-aura
+jota

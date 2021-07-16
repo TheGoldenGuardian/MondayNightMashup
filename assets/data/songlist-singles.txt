@@ -2,4 +2,6 @@ Bashing-Drums:barb:1
 Power-Link:vsmatt:10
 Crowd-Control:aight:11
 Rematch:kindred:10
-Reality:kindred:10
+Reality:kindred-colors:10
+Jota:jota:1
+Calliope:tricky:12
