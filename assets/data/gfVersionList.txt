@@ -4,4 +4,6 @@ gf-christmas
 gf-pixel
 gf-ufo
 gf-ufo-flying
+gf-tankmen
+gf-zelda
 nobody
